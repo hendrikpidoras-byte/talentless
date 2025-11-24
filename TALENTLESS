@@ -6,7 +6,7 @@ loadstring(
 )()
 
 loadstring(
-    game:HttpGet("https://cdn.jsdelivr.net/gh/hellohellohell012321/TALENTLESS/MAIN.lua", true)
+    game:HttpGet("https://raw.githubusercontent.com/hendrikpidoras-byte/talentless/refs/heads/main/MAIN.lua", true)
 )()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/TALENTLESS/refs/heads/main/zombie.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hendrikpidoras-byte/talentless/refs/heads/main/Mzombiw.lua", true))()
